@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 鲸住我了 # the main title
+title: 念 # the main title
 
-tagline: 漫漫长夜不曾离开，我向你奔赴而来 # it will display as the subtitle
+tagline: 我没有莎士比亚的天份 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 鲸住我了
+  name: 
   email: hhhww99wc@163.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
